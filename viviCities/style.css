@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* 
+Theme Name: Vivi City
+Theme URI: http://vhenrique.com
+Description: Vivi City is a WordPress theme supported by multisite. This theme was powered looking for performance and beaulty. We hope that you enjoy it!
+Version: 1.0
+Tags: Vivi brasile, vivi cities, city, Italia, Italy, Blog news, responsive, multisite
+
+Author: Vitor Henrique
+Author URI: http://vhenrique.com
+	Theme developed by Vitor Henrique - vhenrique.vhs@gmail.com
+	Get in touch by email or see more about me in vhenrique.com
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+Text Domain: lang
+*/
+
+.avivatec, .avivatec:hover{color: #FFF;}
+.avivatec label{color: #fdb912;}
